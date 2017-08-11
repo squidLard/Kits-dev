@@ -1,0 +1,12 @@
+name: kits
+authro: squidlard
+version: 1.0
+main: com.squidlard.kits.Core
+commands:
+  stats:
+    usage: /stats [Player]
+    desctiption: displays a users stats.
+  skit:
+    description: Gives a player a desired kit.
+  kscoreboard:
+    aliases: [kboard]

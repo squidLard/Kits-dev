@@ -1,0 +1,27 @@
+Options:
+  update-ticks: 20
+  health-name: true
+  health-tab: true
+
+Worlds:
+  world:
+    title: '&aStaff Info'
+    lines:
+      - '&7&m---------------------'
+      - '&aVanish: &eOff'
+      - '&aChat: &eMuted'
+      - '&7&m---------------------'
+  world_nether:
+    title: '&cProScoreboard'
+    lines:
+      - '&7&m------------------------'
+      - '&cPlayer: &f%player_name%'
+      - '&cOnline: &f%server_online%'
+      - '&7&m------------------------'
+  world_the_end:
+    title: '&5ProScoreboard'
+    lines:
+      - '&7&m------------------------'
+      - '&5Player: &f%player_name%'
+      - '&5Online: &f%server_online%'
+      - '&7&m------------------------'
